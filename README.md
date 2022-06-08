@@ -205,3 +205,9 @@ var showMessage2=function() {
 # Bài 29 Polyfill
    xem lại
 # Bài 30 Object
+
+# Bài 31 Object constructor
+
+
+# Bài 31 Object prototype - Basic
+
